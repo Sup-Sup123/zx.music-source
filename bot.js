@@ -35,6 +35,6 @@ bot.aliases = new discord.Collection();
 bot.youtube = new YouTube(YouTubeAPIKey); // YouTube Client
 bot.queue = new Map(); // Music Queue
 bot.votes = new Map(); // Vote Skip
-bot.embedColor = '#31adde' //embed color
+bot.embedColor = config.embedColor //embed color
 ready.ready(bot);
 message.message(bot, utils, config, discord);

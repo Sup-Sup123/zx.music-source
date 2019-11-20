@@ -7,6 +7,7 @@
 - Go To `settings/config.json` and Fill Up These Details There: 
   * Prefix | `prefix` | Used as a command runner like `{prefix}play [Song URL / Name]`
   * commandNotFound | `true/false` | Returns a message if the command was not found if enabled
+  * embedColor | `Default #FFF` | Sets The Default embed Color for all embed from the bot
   
 - Almost there! `settings/credentials.json` Fill Up these here:
   * token | `NtdHPWqiwGmMAkTkJiadsqc.GYVbNEPJLgOLjxIDkXHgxOlEwJH.xh.Rwzg` (Fake Token) | Enter Your Token There Coz Your Daddy ain't running discord, it needs token to run...

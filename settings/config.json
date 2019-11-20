@@ -1,4 +1,5 @@
 {
     "prefix": "PUT_YUR_FUCKING_PREFIX_HERE",
-    "commandNotFound": false
+    "commandNotFound": false,
+    "embedColor": "#FFF"
 }

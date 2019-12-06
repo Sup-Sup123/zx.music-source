@@ -1,6 +1,6 @@
 # Easy To Self Host Music Bot Code!
 
-=============================
+___________________________
 
 
 > Steps To Use:
@@ -14,15 +14,16 @@
   * YouTubeAPIKey | `Alzyaakljhskkhdahsdge` (Yet Fake) | Enter Your Youtube enabled Google API Key here, required to fetch data from Youtube
   
   
-==============================
+___________________________
 
 
 > Your Job is Done!
   * You Should Find Your Bot Online Once You Run it!
   
 
-==============================
+___________________________
+
 
 Made With ❤ by ZKaTeKI#9395
 
-==============================
+___________________________
